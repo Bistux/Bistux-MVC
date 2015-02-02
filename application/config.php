@@ -14,7 +14,7 @@
      static $db_host="localhost";
      static $db_name="framework";
      static $db_user="spali";
-     static $db_password="19191900dtb";
+     static $db_password="pass";
      
      
     //mailing configuration
@@ -23,11 +23,11 @@
     // 1 = errors and messages
     // 2 = messages only
     static $SMTPAuth   = true;                  // enable SMTP authentication
-    static $Host       = "smtp.mandrillapp.com"; // sets the SMTP server
+    static $Host       = "smtp.bistux.com"; // sets the SMTP server
     static $Port       = 587;                    // set the SMTP port for the GMAIL server
     static $SMTPSecure='tls';					//type
-    static $smtpUsername   = "spalikklpd@gmail.com"; // SMTP account username
-    static $smtpPassword   = "uC1I5az7dNpLBlFPF9ev3g";        // SMTP account password
+    static $smtpUsername   = "spali@bistux.com"; // SMTP account username
+    static $smtpPassword   = "uC1IsdfsdfHFFPF9ev3g";        // SMTP account password
      
      
      
